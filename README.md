@@ -3,7 +3,7 @@ Go f***g repo
 
 ## Build
 ```
-$ go build . -o bin/fake-go
+$ go build -o bin/fake-go .
 ```
 
 ## Run
